@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu_nav{
+    background: #111;
+    color: azure;
+    width: 100%;
+}
+.container{
+    background: #111;
+    margin: 0px;
+    color: yellow;
+}
+hr{
+    color: #511281;
+}
+h1{
+    text-align: center;
+}
